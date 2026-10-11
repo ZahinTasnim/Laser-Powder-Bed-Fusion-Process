@@ -18,7 +18,6 @@ Three ways of choosing test prints were compared, each allowed **40 prints** and
 
 ![Search progress with exact measurements](figures/fig5_exact_measurements.png)
 
-The full write-up is in [`report/`](report) (Word and PDF). This README covers the whole project on its own.
 
 ---
 
@@ -313,7 +312,6 @@ python scripts/05_figures.py              # the figures in this README (~1 min)
   - a defective best-looking recipe in most runs with a 3% error;
   - cautious recipes at about 80% to 85% of the best speed.
 
-The `results/` folder already holds the outputs used in this README, so `04_analyse.py` and `05_figures.py` can be run straight away.
 
 ## 11. Repository layout
 
